@@ -1,6 +1,8 @@
 # AMD-linux-18.04 setup
-2019-4-10
-amd threadripper 1950x, asus x399 extreme, 4 titan xp
+2019-4-10  
+amd threadripper 1950x  
+asus x399 extreme  
+4 titan xp
 
 # 1. BIOS setup
 ### 1.1 Disable Virtual Technology(SVM or VT-M)
