@@ -70,3 +70,4 @@ $ sudo make
 $ ./p2pBandwidthLatencyTest
 ```
 
+### If no error with 4.1 and 4.2, probably code error.
