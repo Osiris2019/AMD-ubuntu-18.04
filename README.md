@@ -46,7 +46,7 @@ $ sudo gedit /etc/default/grub
 ```
 
 ```
-GRUB_CMDLINE_LINUX=""                    <----- Original commented  
+#GRUB_CMDLINE_LINUX=""                    <----- Original commented  
 GRUB_CMDLINE_LINUX="iommu=soft"           <------ Change  
 ```
 
